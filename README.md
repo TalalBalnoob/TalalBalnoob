@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Talal Balnoob</h1>
 <h3 align="center">A passionate backend developer from Yemen</h3>
 
-- 🔭 I’m currently working on [personal finance app](https://github.com/TalalBalnoob/CoinKeepApi)
+- 🔭 I’m currently working on [storage mangemnt app](https://github.com/TalalBalnoob/Stockly)
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **.NET 9**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TalalBalnoob](https://github.com/TalalBalnoob)
 
