@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talal Balnoob</h1>
 <h3 align="center">A passionate backend developer from Yemen</h3>
 
-- 🔭 I’m currently working on [Cinema managment system using microservices](https://github.com/TalalBalnoob/cinema-managment-microservices)
+- 🔭 I’m currently working on [Stockly](https://github.com/TalalBalnoob/Stockly) a storage management tool for home-based e-commerce  
 
 - 🌱 I’m currently learning **.NET 9**
 
