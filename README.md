@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Stockly](https://github.com/TalalBalnoob/Stockly) a storage management tool for home-based e-commerce  
 
-- 🌱 I’m currently learning **.NET 9**
+- 🌱 I’m currently learning **AI Automation & AI Integration**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TalalBalnoob](https://github.com/TalalBalnoob)
 
-- 💬 Ask me about **Laravel, React or .NET**
+- 💬 Ask me about **.NET, React or Laravel**
 
 - 📫 How to reach me **TalalBalnoob@gmail.com**
 
